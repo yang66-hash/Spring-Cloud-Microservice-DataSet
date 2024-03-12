@@ -1,6 +1,6 @@
 It is a repository for the dataset based on Spring Cloud style microservice systems.
 
-This dataset contains 1195 data points.
+This dataset contains 1181 data points.
 
 ## The attributes of feature data.
 
